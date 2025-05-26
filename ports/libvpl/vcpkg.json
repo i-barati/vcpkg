@@ -4,6 +4,7 @@
   "description": "Intel VPL Dispatcher",
   "homepage": "https://github.com/intel/libvpl",
   "license": "MIT",
+  "supports": "windows",
   "dependencies": [
     {
       "name": "vcpkg-cmake",
